@@ -1,11 +1,5 @@
-  __  __ __                        _     
- /\ \/\ \\ \                     /' \    
- \_\ \ \ \\ \               ___ /\_, \   
- /'_` \ \ \\ \_   _______ /' _ `\/_/\ \  
-/\ \L\ \ \__ ,__\/\______\/\ \/\ \ \ \ \ 
-\ \___,_\/_/\_\_/\/______/\ \_\ \_\ \ \_\
- \/__,_ /  \/_/            \/_/\/_/  \/_/
-                                                                               
+Hey there
+
 <!--
 **d4-ni/d4-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
